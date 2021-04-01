@@ -1,0 +1,8 @@
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\bin\Debug\Checkinternet.exe.config
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\bin\Debug\Checkinternet.exe
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\bin\Debug\Checkinternet.pdb
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\obj\Debug\Checkinternet.ProjectInstaller.resources
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\obj\Debug\Checkinternet.csproj.GenerateResource.cache
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\obj\Debug\Checkinternet.csproj.CoreCompileInputs.cache
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\obj\Debug\Checkinternet.exe
+C:\Users\Garu\source\repos\Checkinternet\Checkinternet\obj\Debug\Checkinternet.pdb
